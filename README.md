@@ -6,7 +6,7 @@ it was written by Scrapy and it gathers comments with their corresponding label 
 
 ## Run
 1. cd in snapp directory 
-2. run scrapy crawl comment2 
+2. run "scrapy crawl comment2"
 
 ## Full website
 www.snappfood.ir
